@@ -14,7 +14,7 @@ function App() {
 
   return (
     <Router>
-       <ScrollToTop />
+       {/* <ScrollToTop /> */}
       <NavBar />
       <Routes>
       <Route path="/" element={<Cynthia />} />
